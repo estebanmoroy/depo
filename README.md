@@ -21,6 +21,8 @@ API to be consumed by the Android App
 ### depo-mobile-client
 Android client
 
+[Link](https://github.com/estebanmoroy/depo-mobile-client)
+
 ### depo-console-client 
 Traditional Java client made for internal server testing
 
